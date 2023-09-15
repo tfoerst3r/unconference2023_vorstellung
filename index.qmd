@@ -1,9 +1,9 @@
 ---
-title: title
-subtitle: subtitle
-author: name
-date: 01.01.2099
-institute: department @ institution
+title: Coding in Science
+subtitle: Balancing Time and Sustainabilitysubtitle
+author: Jan Philipp Dietrich and Thomas Förster
+date: 28.09.2023
+institute: Potsdam Institute for Climate Impact Research and HZDR
 format:
   revealjs:
     theme: ./custom/themes/default.scss
@@ -23,10 +23,14 @@ format:
     citation-hover: true
     footnote-hover: true
 bibliography: ./ref.bib
-logo: ./custom/images/logo-hifis.svg
+logo: ./custom/images/logo-rse-de.svg
 ---
 
-## Introduction
+## 
+
+<img src="./images/summary.svg"></img>
+
+## Motivation
 
 <iframe
   id="inlineFrameExample"
@@ -37,6 +41,5 @@ logo: ./custom/images/logo-hifis.svg
 >
 </iframe>
 
-## Motivation
 
 
