@@ -1,8 +1,8 @@
 ---
 title: Coding in Science
-subtitle: Balancing Time and Sustainabilitysubtitle
+subtitle: Balancing Time and Sustainability
 author: Jan Philipp Dietrich and Thomas Förster
-date: 28.09.2023
+date: 09/28/2023
 institute: Potsdam Institute for Climate Impact Research and HZDR
 format:
   revealjs:
@@ -26,9 +26,27 @@ bibliography: ./ref.bib
 logo: ./custom/images/logo-rse-de.svg
 ---
 
-## 
+## Balancing Time and Sustainability 
 
-<img src="./images/summary.svg"></img>
+:::::: columns
+
+<!---- column ---->
+::: {.column width=30%}
+- Best practice for SE
+- What is the minimum?
+- What is too much?
+
+:::
+
+<!---- column ---->
+::: {.column width=70%}
+
+<p style="margin-top:-3%;"/>
+<center>
+![](images/summary.svg){width=100%}
+</center>
+:::
+::::::
 
 ## Motivation
 
@@ -40,6 +58,5 @@ logo: ./custom/images/logo-rse-de.svg
   src="https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik"
 >
 </iframe>
-
 
 
